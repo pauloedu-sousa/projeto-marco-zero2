@@ -12,15 +12,16 @@
   body {
     font-size: 1.6rem;
     font-family: 'Roboto', sans-serif;
-    background-color: #8b978c;
+    background-color: #0ba0e6;
   }
 
   a {
     text-decoration: none;
+    color: white;
   }
 
   main {
-    background-color: #EF7D19;
+    background-color: #09c6f5;
     padding: 16px;
     font-family: 'Lucida Sans', Verdana, sans-serif;
   }
@@ -30,8 +31,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: white;
-    text-decoration: none;
     font-family: 'Lucida Sans', Verdana, sans-serif;
     
     

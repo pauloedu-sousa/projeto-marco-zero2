@@ -51,19 +51,19 @@
   
     color: var(--button-text-color);
   }
-  
+
   body {
     font-size: 1.6rem;
     font-family: 'Roboto', sans-serif;
     flex-direction: column;
     align-items: center;
     height: 100vh;
-    background-color: #8b978c;
+    background-color: #0ba0e6;
     
   }
 
   main {
-    background-color: #EF7D19;
+    background-color: #09c6f5;
     padding: 16px;
     color: white;
     font-family: 'Lucida Sans', Verdana, sans-serif;
