@@ -23,6 +23,7 @@ body {
     padding: 16px;
     color: white;
     font-family: 'Lucida Sans', Verdana, sans-serif;
+    border: 5px solid black;
   }
 
   a {
@@ -38,6 +39,7 @@ body {
   
     background-color: var(--nav-bg-color);
     color: var(--nav-text-color);
+    border: 5px solid black;
     height: 6rem;
   
     padding: 0 2.4rem;
